@@ -1,18 +1,18 @@
 <!-- 인트로 -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Anta&size=28&duration=2200&pause=5000&color=00D9F7&&vCenter=true&width=435&lines=Hello+I'm+YoonJieut)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Anta&size=28&duration=2200&pause=5000&color=00D9F7&&vCenter=true&width=900&lines=Hello+I'm+YoonJieut)](https://git.io/typing-svg)
 <!-- 간단 자기 소개 -->
 ```
 열정으로 극복하는 신입 개발자 윤준현의 깃허브입니다.
 ```
 <!-- 깃허브, 사용 스택 표 -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Anta&duration=2200&pause=3000&color=00D9F7&center=true&vCenter=true&repeat=false&width=435&lines=My+Stats)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Anta&duration=2200&pause=3000&color=00D9F7&center=true&vCenter=true&repeat=false&width=900&lines=My+Stats)](https://git.io/typing-svg)
 
 ![YoonJieut's GitHub stats](https://github-readme-stats.vercel.app/api?username=YoonJieut&show_icons=true&bg_color=00000000&hide_border=true&icon_color=00D9F7FF&Title_color=00D9F7FF)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoonjieut&layout=compact)
 
 
 <!-- 주력 스택 -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Anta&duration=2200&pause=3000&color=00D9F7&center=true&vCenter=true&repeat=false&width=435&lines=Stacks)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Anta&duration=2200&pause=3000&color=00D9F7&center=true&vCenter=true&repeat=false&width=900&lines=Stacks)](https://git.io/typing-svg)
 <div align="center">
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
@@ -26,7 +26,7 @@
 
 
 <!-- 공부중 -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Anta&duration=2200&pause=3000&color=00D9F7&center=true&vCenter=true&repeat=false&width=435&lines=Studying)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Anta&duration=2200&pause=3000&color=00D9F7&center=true&vCenter=true&repeat=false&width=900&lines=Studying)](https://git.io/typing-svg)
 
 <div align="center">
   <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
@@ -35,7 +35,7 @@
 
 
 <!-- 툴 -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Anta&duration=2200&pause=3000&color=00D9F7&center=true&vCenter=true&repeat=false&width=435&lines=Tools)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Anta&duration=2200&pause=3000&color=00D9F7&center=true&vCenter=true&repeat=false&width=900&lines=Tools)](https://git.io/typing-svg)
 
 <div align="center">
   <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
@@ -55,7 +55,7 @@
 </div>
 
 <!-- contact -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Anta&duration=2200&pause=3000&color=00D9F7&center=true&vCenter=true&repeat=false&width=435&lines=Contact)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Anta&duration=2200&pause=3000&color=00D9F7&center=true&vCenter=true&repeat=false&width=900&lines=Contact)](https://git.io/typing-svg)
 <div align="center">
   <a href="mailto:yoonjieut@gmail.com">
     <img
