@@ -14,7 +14,7 @@
 <!-- 주력 스택 -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Anta&duration=2200&pause=3000&color=00D9F7&vCenter=true&repeat=false&width=435&lines=Stacks)](https://git.io/typing-svg)
 <div>
-  [Nextjs]
+  <img src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
     <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
 </div>
@@ -33,8 +33,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Anta&duration=2200&pause=3000&color=00D9F7&vCenter=true&repeat=false&width=435&lines=Libraries)](https://git.io/typing-svg)
 <div>
   <img src="https://img.shields.io/badge/tailwindcss-1daabb.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />&nbsp
-  [Sass]&nbsp
-  [swiper]
+  <img src="https://img.shields.io/badge/Sass-CC6699.svg?style=for-the-badge&logo=Sass&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/Swiper-6332F6.svg?style=for-the-badge&logo=Swiper&logoColor=white" />
 </div>
 
 
@@ -43,8 +43,8 @@
 
 <div>
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
-  [Three.js]&nbsp
-  [Django]
+  <img src="https://img.shields.io/badge/Three.js-000000.svg?style=for-the-badge&logo=threedotjs&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/Django-092E20.svg?style=for-the-badge&logo=Django&logoColor=white"/>
 </div>
 
 <div>
