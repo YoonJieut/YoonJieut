@@ -2,8 +2,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Anta&size=32&duration=2200&pause=5000&color=00D9F7&&vCenter=true&width=435&lines=Hello+I'm+YoonJieut)](https://git.io/typing-svg)
 <!-- 간단 자기 소개 -->
 프론트앤드 개발자 윤준현입니다.
-
+<br>
 QR 주문 및 결제, 가게 관리 QR_ORDER 프로젝트 : https://github.com/seonhu22/qr_order
+<br>
 전시회 조회 TODAY_ART 프로젝트 : https://github.com/todayart/today_art
 <br>
 
