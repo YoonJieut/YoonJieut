@@ -3,6 +3,9 @@
 <!-- 간단 자기 소개 -->
 프론트앤드 개발자 윤준현입니다.
 <br>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Anta&duration=2200&pause=3000&color=00D9F7&vCenter=true&repeat=false&width=435&lines=Projects)](https://git.io/typing-svg)
+<br>
 QR 주문 및 결제, 가게 관리 QR_ORDER 프로젝트 : https://github.com/seonhu22/qr_order
 <br>
 전시회 조회 TODAY_ART 프로젝트 : https://github.com/todayart/today_art
